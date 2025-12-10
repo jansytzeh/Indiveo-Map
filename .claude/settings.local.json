@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python extract_divis.py:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
