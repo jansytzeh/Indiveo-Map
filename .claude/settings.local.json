@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(python extract_divis.py:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(head:*)",
+      "Bash(mkdir:*)",
+      "Bash(copy:*)",
+      "Bash(cp:*)"
     ]
   }
 }
